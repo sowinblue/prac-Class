@@ -7,5 +7,3 @@ class Person:
 p1 = Person("winiee")
 p2 = Person("Minam")
 
-print(p1.species)  # Human
-print(p2.species) 
